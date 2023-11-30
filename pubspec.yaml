@@ -1,0 +1,26 @@
+name: ip_detector
+description: A flutter package that can identify a user's IP and collect more information from it.
+version: 0.0.1
+repository: https://github.com/esmaeil-ahmadipour/ip_detector
+homepage: https://github.com/esmaeil-ahmadipour/ip_detector
+issue_tracker: https://github.com/esmaeil-ahmadipour/ip_detector/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+screenshots:
+  - description: The `ip_detector` package logo.
+    path: assets/ip_detector_logo.png
